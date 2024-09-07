@@ -1,0 +1,36 @@
+.sided-text-picture {
+    width: 100%;
+    margin: 10vh auto;
+}
+
+.sided-text-picture__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    gap: 10%;
+}
+
+.sided-text-picture__image {
+    height: 60vh;
+}
+
+.sided-text-picture__title {
+    color: #163A24;
+    font-family: "Recoleta", serif;
+    font-size: 7vh;
+
+}
+
+.sided-text-picture__text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+}
+
+.sided-text-picture__text-block {
+    font-size: 2.8vh;
+    width: 80%;
+}

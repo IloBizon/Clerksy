@@ -1,0 +1,28 @@
+.partners {
+    margin: 12vh auto;
+    display: flex;
+}
+.partners__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.partners__title {
+    font-family: "Recoleta", serif;
+    color: #163A24;
+    font-size: 6vh;
+}
+
+.partners__logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10%;
+    margin-top: 5%;
+}
+.partners__logo {
+    height: 7vh;
+}

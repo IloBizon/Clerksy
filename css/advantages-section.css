@@ -1,0 +1,36 @@
+.highest-quality {
+    background-color: #163A24;
+    color: white;
+}
+
+.highest-quality__wrapper {
+    padding: 10vh 0 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.highest-quality__title {
+    font-size: 6vh;
+    font-family: "Recoleta", serif;
+    margin-bottom: 5vh;
+}
+
+.highest-quality__advantages-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.highest-quality__advantage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.highest-quality__img {
+    height: 15vh;
+    margin-bottom: 5vh;
+}
